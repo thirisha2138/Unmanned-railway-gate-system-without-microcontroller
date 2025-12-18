@@ -59,6 +59,13 @@ This logic ensures that the gate remains closed only while the train is present.
 * Successful automatic opening and closing of the railway gate
 * Reliable train detection using IR sensors
 * Stable servo operation using timer-based control
+  
+<img width="975" height="755" alt="image" src="https://github.com/user-attachments/assets/5befdc90-8360-471a-a5b3-5f1d9ea51b39" />
+<img width="979" height="767" alt="image" src="https://github.com/user-attachments/assets/5dc79e34-4a80-4784-9661-76d51fb0f552" />
+<img width="615" height="462" alt="image" src="https://github.com/user-attachments/assets/80de4015-5134-4586-b4d1-5bb68a944476" />
+<img width="581" height="618" alt="image" src="https://github.com/user-attachments/assets/b0429445-17c8-4c67-bac6-e2b2cab0b63a" />
+
+
 
 ---
 
